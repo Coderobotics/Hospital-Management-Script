@@ -1,7 +1,7 @@
 # Hospital-Management-Script
 Hospital Management System is a PHP and MySQL database web application for the hospital or clinic which manages doctors and patients. This is a ready-made hospital management PHP script that has 3 core modules such as admin, doctor, and patient. Admin has all the privileges to manage the complete system such patients, doctors, scheduling of appointments. In the patients panel, patients can view his or her own profile, history of appointments, booking new appointments, and medical history . In the doctor panel, a doctor can view his or her own profile, view patients appointments, and etc. Phpscriptsonline offers this Hospital Management PHP Script with full source code, so anyone can download, customize and use it for their clients such hospitals, clinics, and doctor appointment booking.
 
-<img src="https://www.phpscriptsonline.com/product/hospital-appointment-booking-website">
+<img src="https://www.phpscriptsonline.com/frontend/assets/templates/1740507770_c4edaa469681c038f803.jpg">
 
 <b>Hospital Management Software has the following features:</b>
 
